@@ -25,8 +25,6 @@ password-security-checker/
 
 🛠️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/yourusername/password-security-checker.git
-cd password-security-checker
 
 2. Install dependencies
 pip install -r requirements.txt
